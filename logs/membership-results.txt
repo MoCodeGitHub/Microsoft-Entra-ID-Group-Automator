@@ -1,0 +1,6 @@
+Assigned helpdesk.user to Helpdesk-Team
+Assigned manager.user to Managers
+Assigned admin.user to IT-Admins
+2026-04-15 12:54:37 - Assigned helpdesk.user to Helpdesk-Team
+2026-04-15 12:54:37 - Assigned manager.user to Managers
+2026-04-15 12:54:37 - Assigned admin.user to IT-Admins
