@@ -66,6 +66,8 @@ Managing role-based access
 Supporting onboarding workflows
 Automating repetitive administrative tasks
 Reducing manual configuration effort
+
+---
 📌 Future Enhancements
 
 Potential improvements:
