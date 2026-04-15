@@ -49,31 +49,37 @@ The script reads group information from a CSV file and automatically provisions 
 
 ---
 
-🚀 Skills Demonstrated
-PowerShell automation
-Microsoft Graph API usage
-Microsoft Entra ID administration
-Identity lifecycle automation
-CSV-driven provisioning workflows
-Git repository management
-Cloud identity automation
-🧪 Real-World Use Case
+
+## 🚀 Skills Demonstrated
+
+- PowerShell automation
+- Microsoft Graph API usage
+- Microsoft Entra ID administration
+- Identity lifecycle automation
+- CSV-driven provisioning workflows
+- Git repository management
+- Cloud identity automation
+
+---
+
+## 🧪 Real-World Use Case
 
 This project simulates enterprise identity management scenarios such as:
 
-Creating department security groups
-Managing role-based access
-Supporting onboarding workflows
-Automating repetitive administrative tasks
-Reducing manual configuration effort
+- Creating department security groups
+- Managing role-based access
+- Supporting onboarding workflows
+- Automating repetitive administrative tasks
+- Reducing manual configuration effort
 
 ---
-📌 Future Enhancements
+
+## 📌 Future Enhancements
 
 Potential improvements:
 
-Add user-to-group assignment automation
-Implement structured logging
-Add error handling improvements
-Support dynamic group membership
-Expand CSV validation logic
+- Add user-to-group assignment automation
+- Implement structured logging
+- Add error handling improvements
+- Support dynamic group membership
+- Expand CSV validation logic
